@@ -17,11 +17,11 @@ This is a command-line Employee Management System built using Python and MySQL. 
 ## Example Screenshots
 
 ### Add Employee
-![Add Employee](screenshots/add_employee.png)
+![Add Employee](https://github.com/Kartikesh974/Employee-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20232047.png)
 
-### View Employees
-![View Employees](screenshots/view_employees.png)
+### View Employees AND Delete Employees
+![View Employees](https://github.com/Kartikesh974/Employee-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20232117.png)
 
-### Search Employee
-![Search Employee](screenshots/search_employee.png)
+### Database
+![Search Employee](https://github.com/Kartikesh974/Employee-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20231622.png)
 
