@@ -14,3 +14,14 @@ This is a command-line Employee Management System built using Python and MySQL. 
 - MySQL Server
 - `mysql-connector-python` (install via pip)
 
+## Example Screenshots
+
+### Add Employee
+![Add Employee](screenshots/add_employee.png)
+
+### View Employees
+![View Employees](screenshots/view_employees.png)
+
+### Search Employee
+![Search Employee](screenshots/search_employee.png)
+
